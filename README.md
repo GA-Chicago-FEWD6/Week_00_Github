@@ -1,10 +1,6 @@
 
 ##Lesson 00 - GitHub and version control
 
-**NOTE**: This is a lesson insert recommended for lesson 01_html_basics or class 0. 
-
-**Do not attempt to teach Git and GitHub using the command line!** Instructors who have attempted to teach Git and GitHub using the command line in FEWD have found that it confuses and frustrates students; in extreme cases, it can cause students to withdraw from the course. This lesson outlines how to teach a GitHub workflow using the GitHub destop client for Mac and Windows. Students will have already learned the basics of the GitHub desktop client by watching [the pre-work video](https://generalassembly.wistia.com/medias/jkrycndgrs)--this lesson is meant to reinforce what students learned prior to class.
-
 ###Learning Objectives:
 
 - Define a version control system (Git) and explain its benefits
@@ -92,28 +88,11 @@ GitHub's collaborative process can work many different ways, but this is the mos
 4. If there are multiple engineers working on a project, other engineers can review the code that is committed and provide feedback.  For this class, the instructors will be reviewing and providing feedback on your code. 
   - We will be working with our own default "master" branch for each of our projects. 
 
-#####CFU: 
-
-Ask students to show how comfortable they are with the materials: show a "thumbs up" for "I understand" or one finger for "I need it explained one more time".  Use this indicator to decide whether or not to move on. 
-
 <br>
 
 ---
 
 ##We Do: GitHub Refresher/Setup a repo - 15 minutes
-
-
-####Directions to instructors:
-
-Students will come to the class having followed the directions on the GitHub guide and watched a video on GitHub. They should all have a GitHub account, their first repository and the GitHub app installed on their machines.
-
-This lesson is an opportunity for students to ask questions and also make sure that students understand the GitHub process as they will be submitting all of their homework via the app.
-
-Make sure to have the GitHub app installed, the class repo set up, and be logged into your account before class. We have found that using Terminal for GitHub interaction is out of the scope of this course. Please, be sure to use the GitHub app for version control in this class.
-
-This can be framed as a "code along" because students should have practiced this before the course. Remember to ask students for questions as every step in the process as you walk students through creating a repository.
-
-####Directions to students:
 
 1. Log on to GitHub.com and press the big green button for "New Repository".
 2. Finish setting up the repo by adding a name to the repository. The default settings (public, no organization, no readme) are fine.  Name your repository "cookie_recipe".
