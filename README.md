@@ -112,13 +112,8 @@ GitHub's collaborative process can work many different ways, but this is the mos
 
 ##Closure: Reviewing GitHub work flow; Explain Git/GitHub benefits - 10 minutes
 
-- *Explain* that throughout this class, students will use GitHub as a tool to submit assignments and download files; instructors will use GitHub to assess and review student work and provide feedback.
-
 - Walk students through the homework submission, grading and feedback process (i.e everything that's explained in the [FEWD GitHub work flow document](./GitHub_Grading_Workflow.md))
 - Also, quickly show students where they can access in-line comments on their commits left by the instructional team:
   - Use [this](http://youtu.be/gQzWFRKZUSA?hd=1) video to show students how to navigate their GitHub account to access in-line comments
   - Afterward, point out that they will also get an email alert when they have a new comment on their code:
   ![GitHub comment info](http://oi62.tinypic.com/wbqhcl.jpg)
-- Finally, ask a different student to answer each one of these questions: 
-    - Explain why engineers use Git when developing applications.
-    - Explain how GitHub works with Git.
